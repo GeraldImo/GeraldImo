@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @GeraldImo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GeraldImo/GeraldImo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding with SQL and Python
+- 🌱 I’m currently strenthgening my skills in SQL and Python
+- 📫 How to reach me gedtlaks@gmail.com
