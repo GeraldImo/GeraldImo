@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GeraldImo
 - 👀 I’m interested in coding with SQL , R and Python
-- 🌱 I’m open to collaborations on prjects using SQL, R or Python
+- 🌱 I’m open to collaborations on projects using SQL, R or Python
 - 📫 How to reach me gedtlaks@gmail.com
